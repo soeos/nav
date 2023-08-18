@@ -15,6 +15,17 @@
     <div class="go-up">
       <a href="#" rel="go-top">
         <i class="fas fa-angle-up"></i>
+        <% 
+          document.write("<b>OR科技已稳定运行</b><font color=red>");
+          var urodz= new Date("9/6/2018");
+          var now = new Date();
+          var ile = now.getTime() - urodz.getTime();
+          var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
+          document.write(dni);
+          document.write("</font>天！");
+        %>
+
+
       </a>
     </div>
   </div>
