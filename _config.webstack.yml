@@ -127,7 +127,7 @@ aboutPage:
     description: 交流分享互联网科技
     html: '<br /><blockquote><p>同时欢迎访问ORFW<a href="https://www.orys.link" target="_blank" rel="noopener"> ORFW </a> 获取更多内容。</p></blockquote>'
 
-since: 2020
+since: 2018
 
 busuanzi:
   enable: true
