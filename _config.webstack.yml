@@ -1,10 +1,10 @@
-favicon: /favicon.ico
+favicon: /images/202308172358091.png
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.png
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  expanded: /images/202308172358091.png
+  collapsed: /images/202308172358091.png
+  dark: /images/202308172358091.png
 
 flag:
   icon: flag-cn
