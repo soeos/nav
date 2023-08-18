@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 极客角落 网站导航
+title: ORFW 网站导航
 subtitle: ''
 description: ''
 keywords:
-author: 极客角落
+author: techor
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://blog.orys.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
